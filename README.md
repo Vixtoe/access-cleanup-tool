@@ -6,7 +6,7 @@ An automated Identity and Access Management (IAM) analysis tool built with Pytho
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 access-cleanup-tool/
